@@ -101,7 +101,7 @@ END_SECTION:activity
 [linkedin]: https://in.linkedin.com/public-profile/in/ankit-sanghvi-99237b1a0?challengeId=AQF9nWw0DD02PQAAAXQdXh6Ku-KsRnO6xRE0qXRQYqwz1NO1l8eJ4191691YiDibRkQqi5PjSicXlb80nVcHKbdUwQqEDwpRfg&submissionId=f1efcf57-1d05-2e16-615d-8886c15c7f7d
 [facebook]: https://www.facebook.com/ankit.shanghavi
 [instagram]: https://www.instagram.com/thecrewguy/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://www.youtube.com/playlist?list=PL5Ovqa5beb7B3byzajeJkoOad45gPs9YY
+[jsplaylist]: https://www.youtube.com/playlist?list=PL5Ovqa5beb7DB5SUARI6S87rRX184bSLo
+[cssplaylist]: https://www.youtube.com/playlist?list=PL5Ovqa5beb7DB5SUARI6S87rRX184bSLo
+[reactplaylist]:https://www.youtube.com/playlist?list=PL5Ovqa5beb7DEr3hsrfzOJvqe_ZZokj-J
