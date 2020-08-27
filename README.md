@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything I can🤣
 - 👯 I’m looking to collaborate with other fellow developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I enjoy playing the guitar, performing jokes on open mics and going on long walks.
+- ⚡ Fun fact: I enjoy playing the guitar, performing jokes at open mics and going on long walks.
 
 <!-- ### Spotify Playing 🎧
 
