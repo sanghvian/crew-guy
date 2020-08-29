@@ -91,7 +91,7 @@ END_SECTION:activity
 
 </details>
 
-[website]: https://ankit-sanghvi.netlify.app/
+[website]: https://ankitsanghvi.netlify.app/
 
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
