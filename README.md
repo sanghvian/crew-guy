@@ -44,6 +44,16 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="React" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true" />][webdevplaylist]
+[<img align="left" alt="React" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://alligatortek.com/wp-content/uploads/2017/09/image115.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/VyjCJuz.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />][webdevplaylist]
+[<img align="left" alt="React" width="26px" src="https://i.imgur.com/zINUxVf.png" />][webdevplaylist]
+[<img align="left" alt="React" width="26px" src="https://i.imgur.com/Ao2P8iG.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/ddmarin94/React-Webpack-Github/master/img/webpack.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/passport.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="http://jenkins-ci.org/sites/default/files/jenkins_logo.png" />][webdevplaylist]
 
 <br />
 <br />
