@@ -31,7 +31,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="React" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" />][webdevplaylist]
+[<img align="left" alt="React" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_chai.png?raw=true" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png" />][webdevplaylist]
 [<img align="left" alt="React" width="36px" src="https://pbs.twimg.com/profile_images/532662364613525504/GN559Lfb_reasonably_small.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/pug.png" />][webdevplaylist]
