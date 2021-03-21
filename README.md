@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a couple of Web Application projects and Vehicle Sims.
 - 🌱 I’m currently learning everything I can
-- 👯 I’m looking to collaborate with other fellow developers
+- 👯 I’m looking to collaborate with other fellow developers on meaningful projects for the community
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy playing the guitar, performing jokes at open mics and going on long walks.
 
