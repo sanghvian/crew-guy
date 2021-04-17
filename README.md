@@ -1,120 +1,51 @@
-### Hi ! I'm Ankit Sanghvi aka [crew-guy][website] ⚙️
+## I am Ankit, Great to see you here! <img src="https://i.pinimg.com/originals/00/94/18/009418460183d05cbbff41179436b3eb.gif" width="30px">
 
-<!--
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+I am Ankit Sanghvi, a 20 year old . I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-## I'm a full-time Student, part-time Software Developer and part-time Racecar Engineer
+[![Linkedin Badge](https://img.shields.io/badge/-ankitsanghvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/ankit-sanghvi-99237b1a0/)
+[![Gmail Badge](https://img.shields.io/badge/-ankit.sanghavi87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankit.sanghavi87@gmail.com)](mailto:ankit.sanghavi87@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Ankit's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://ankitsanghvi.live/)](https://ankitsanghvi.live/)
+[![Blog Badge](https://img.shields.io/badge/-Ankit's_Blog-grey?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.ankitsanghvi.live/)](https://blog.ankitsanghvi.live/)
 
-- 🔭 I’m currently working on a couple of Web Application projects and Vehicle Sims.
-- 🌱 I’m currently learning everything I can
-- 👯 I’m looking to collaborate with other fellow developers on meaningful projects for the community
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I enjoy playing the guitar, performing jokes at open mics and going on long walks.
+[![Ankit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=crew-guy&theme=xcode)](https://git.io/crew-guy)
 
-<!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
+## ⚡ Technologies
 
-### Connect with me:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-[<img align="left" alt="ankit-sanghvi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ankit-sanghvi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ankit-sanghvi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="ankit-sanghvi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![Github Stats](https://github-readme-stats.vercel.app/api?username=crew-guy&count_private=true&show_icons=true&include_all_commits=true)
 
-<br />
 
-### Languages and Tools:
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="React" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_chai.png?raw=true" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png" />][webdevplaylist]
-[<img align="left" alt="React" width="36px" src="https://pbs.twimg.com/profile_images/532662364613525504/GN559Lfb_reasonably_small.png" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/pug.png" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/graphql.png" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://alligatortek.com/wp-content/uploads/2017/09/image115.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/VyjCJuz.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://i.imgur.com/zINUxVf.png" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://i.imgur.com/Ao2P8iG.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/ddmarin94/React-Webpack-Github/master/img/webpack.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/passport.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="http://jenkins-ci.org/sites/default/files/jenkins_logo.png" />][webdevplaylist]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crew-guy)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<br />
-<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crew-guy&hide=TeX&layout=compact)
 
----
-
-<!-- ### 📺 Latest YouTube Videos
-
-YOUTUBE:START
-
-- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-YOUTUBE:END
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-BLOG-POST-LIST:START
-
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-BLOG-POST-LIST:END
-
-➡️ [more blog posts...](https://codestackr.com)
-
---- -->
-
-<!-- <details>
-  <summary>:zap: Recent Github Activity</summary>
-
-START_SECTION:activity
-1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-END_SECTION:activity
-
-</details> -->
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Ankit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=crew-guy&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://ankitsanghvi.netlify.app/
-
-<!-- [twitter]: https://twitter.com/codeSTACKr -->
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
-
-<!-- [discord]: https://www.instagram.com/thecrewguy/ -->
-
-[linkedin]: https://in.linkedin.com/public-profile/in/ankit-sanghvi-99237b1a0?challengeId=AQF9nWw0DD02PQAAAXQdXh6Ku-KsRnO6xRE0qXRQYqwz1NO1l8eJ4191691YiDibRkQqi5PjSicXlb80nVcHKbdUwQqEDwpRfg&submissionId=f1efcf57-1d05-2e16-615d-8886c15c7f7d
-[facebook]: https://www.facebook.com/ankit.shanghavi
-[instagram]: https://www.instagram.com/thecrewguy/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PL5Ovqa5beb7B3byzajeJkoOad45gPs9YY
-[jsplaylist]: https://www.youtube.com/playlist?list=PL5Ovqa5beb7DB5SUARI6S87rRX184bSLo
-[cssplaylist]: https://www.youtube.com/playlist?list=PL5Ovqa5beb7DB5SUARI6S87rRX184bSLo
-[reactplaylist]:https://www.youtube.com/playlist?list=PL5Ovqa5beb7DEr3hsrfzOJvqe_ZZokj-J
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kaiwalyakopakar.crew-guy)
