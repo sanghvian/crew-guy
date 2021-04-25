@@ -1,4 +1,4 @@
-## I am Ankit, Great to see you here! <img src="https://i.pinimg.com/originals/00/94/18/009418460183d05cbbff41179436b3eb.gif" width="30px">
+## I am Ankit, great to see you here! <img src="https://i.pinimg.com/originals/00/94/18/009418460183d05cbbff41179436b3eb.gif" width="30px">
 
 I am Ankit Sanghvi, a 20 year old . I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
