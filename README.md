@@ -1,6 +1,6 @@
 ## I am Ankit, great to see you here! <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="30px">
 
-I am Ankit Sanghvi, a 20 year old . I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Ankit Sanghvi, a 20 year old software developer from India, currently studying at Indian Institute of Technology, Madras. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ankitsanghvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/ankit-sanghvi-99237b1a0/)
 [![Gmail Badge](https://img.shields.io/badge/-ankit.sanghavi87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankit.sanghavi87@gmail.com)](mailto:ankit.sanghavi87@gmail.com)
