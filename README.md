@@ -27,6 +27,7 @@ I am Ankit Sanghvi, a 20 year old software developer from India, currently study
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
