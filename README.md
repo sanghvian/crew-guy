@@ -45,7 +45,6 @@ This is Ankit Sanghvi, a 20 year old Software Developer from India, currently st
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=crew-guy&count_private=true&show_icons=true&include_all_commits=true)
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crew-guy)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crew-guy&hide=TeX&layout=compact)
