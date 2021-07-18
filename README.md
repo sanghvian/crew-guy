@@ -9,7 +9,6 @@ This is Ankit Sanghvi, a 20 year old Software Developer from India, currently st
 
 [![Ankit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=crew-guy&theme=xcode)](https://git.io/crew-guy)
 
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
