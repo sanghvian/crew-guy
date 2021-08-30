@@ -2,10 +2,10 @@
 
 This is Ankit Sanghvi, a Software Developer from India, currently studying at Indian Institute of Technology, Madras. I am a passionate tech enthusiast & an open-source advocate. I always look forward to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here on these platforms :
 
+[![Blog Badge](https://img.shields.io/badge/-Ankit's_Blog-grey?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.ankitsanghvi.live/)](https://blog.ankitsanghvi.live/)
 [![Website Badge](https://img.shields.io/badge/-Ankit's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://ankitsanghvi.live/)](https://ankitsanghvi.live/)
 [![Gmail Badge](https://img.shields.io/badge/-ankit.sanghavi87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankit.sanghavi87@gmail.com)](mailto:ankit.sanghavi87@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-ankitsanghvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/ankit-sanghvi-99237b1a0/)
-[![Blog Badge](https://img.shields.io/badge/-Ankit's_Blog-grey?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.ankitsanghvi.live/)](https://blog.ankitsanghvi.live/)
 
 [![Ankit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=crew-guy&theme=xcode)](https://git.io/crew-guy)
 
