@@ -1,4 +1,4 @@
-## Hi ! I am crew-guy, great to see you here !  <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="30px">
+## Hey ! I am crew-guy, great to see you here !  <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="30px">
 
 I am Ankit Sanghvi, a Full-Stack Engineer from India, currently studying at Indian Institute of Technology, Madras. I am a passionate tech enthusiast & an open-source advocate. I always look forward to collaborating on innovative projects and disruptive ideas. Find out more about me & feel free to connect with me here on these platforms :
 
