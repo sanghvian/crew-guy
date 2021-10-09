@@ -46,6 +46,6 @@ I am Ankit Sanghvi, a Full-Stack Engineer from India, currently studying at Indi
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crew-guy)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crew-guy&hide=TeX&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crew-guy&hide=TeX&layout=compact) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kaiwalyakopakar.crew-guy)
