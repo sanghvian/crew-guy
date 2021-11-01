@@ -1,6 +1,6 @@
 ## Hey ! I am crew-guy, great to see you here !  <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="30px">
 
-I am Ankit Sanghvi, a Full-Stack Engineer from India, currently studying at Indian Institute of Technology, Madras. I am a passionate tech enthusiast & an open-source advocate. I always look forward to collaborating on innovative projects and disruptive ideas. Find out more about me & feel free to connect with me here on these platforms :
+I am Ankit Sanghvi, a Full-Stack Developer and Cloud Architect from India, currently studying at Indian Institute of Technology, Madras. I am a passionate tech enthusiast & an open-source advocate. I always look forward to collaborating on innovative projects and disruptive ideas. Find out more about me & feel free to connect with me here on these platforms :
 
 [![Blog Badge](https://img.shields.io/badge/-Ankit's_Blog-grey?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.ankitsanghvi.live/)](https://blog.ankitsanghvi.live/)
 [![Website Badge](https://img.shields.io/badge/-Ankit's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://ankitsanghvi.live/)](https://ankitsanghvi.live/)
@@ -16,10 +16,12 @@ I am Ankit Sanghvi, a Full-Stack Engineer from India, currently studying at Indi
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeORM](https://img.shields.io/badge/-TypeORM-red?style=flat-square&logo=TypeORM)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![NestJS](https://img.shields.io/badge/-Nestjs-red?style=flat-square&logo=Nest.js)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
