@@ -9,7 +9,7 @@ I am a Full-Stack Developer and Cloud Architect from India, currently studying a
 
 <!-- [![Ankit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=crew-guy&theme=xcode)](https://git.io/crew-guy) -->
 
-## ⚡ Technologies
+## ⚡ Technologies :
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
