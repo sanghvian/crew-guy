@@ -1,6 +1,6 @@
 ## Hey ! I am Ankit !  <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="30px">
 
-I am a Full-Stack Developer and Cloud Infrastructure Architect from India, currently studying at Indian Institute of Technology, Madras. I am a passionate technology enthusiast & an open-source advocate. I always look forward to collaborating on innovative projects and disruptive ideas. Find out more about me & feel free to connect with me here, on these platforms:
+I am a Full-Stack Developer and Cloud-Infrastructure Architect from India, currently studying at Indian Institute of Technology, Madras. I am a passionate technology enthusiast & an open-source advocate. I always look forward to collaborating on innovative projects and disruptive ideas. Find out more about me & feel free to connect with me here, on these platforms:
 
 [![Blog Badge](https://img.shields.io/badge/-Ankit's_Blog-grey?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.ankitsanghvi.live/)](https://blog.ankitsanghvi.live/)
 [![Website Badge](https://img.shields.io/badge/-Ankit's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://ankitsanghvi.live/)](https://ankitsanghvi.live/)
