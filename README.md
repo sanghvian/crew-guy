@@ -14,6 +14,7 @@ I am a Full-Stack Developer and Cloud-Infrastructure Architect from India, curre
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=Solidity)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-red?style=flat-square&logo=TypeORM)
