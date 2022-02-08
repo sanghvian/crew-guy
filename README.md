@@ -1,28 +1,30 @@
-## Hey ! I am Ankit ! <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="30px">
+<h1> Hey ! I am Ankit ! <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="30px"></h1>
 
 I am a Full Stack Developer, Infrastructure Architect and Product Designer from India, currently studying at Indian Institute of Technology, Madras. I am a super passionate technology enthusiast & an altruistic open-source advocate. I always look forward to collaborating on innovative projects and disruptive ideas. Find out more about me & feel free to connect with me here, on these platforms:
 
 [![Blog Badge](https://img.shields.io/badge/-Ankit's_Blog-grey?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.ankitsanghvi.live/)](https://blog.ankitsanghvi.live/)
 [![Website Badge](https://img.shields.io/badge/-Ankit's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://ankitsanghvi.live/)](https://ankitsanghvi.live/)
 [![Gmail Badge](https://img.shields.io/badge/-ankit.sanghavi87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankit.sanghavi87@gmail.com)](mailto:ankit.sanghavi87@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-ankitsanghvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/ankit-sanghvi-99237b1a0/)
+[![Linkedin Badge](https://img.shields.io/badge/-ankitsanghvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-sanghvi-99237b1a0/)](https://www.linkedin.com/in/ankit-sanghvi-99237b1a0/)
+[![SoundCloud Badge](https://img.shields.io/badge/-ankitsanghvi-orange?style=flat-square&logo=Soundcloud&logoColor=white&link=https://soundcloud.com/ankit-sanghvi-127996264/)](https://soundcloud.com/ankit-sanghvi-127996264/)
 
 <!-- [![Ankit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=crew-guy&theme=xcode)](https://git.io/crew-guy) -->
 
 ## ⚡ Technologies :
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=Solidity)
+![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-red?style=flat-square&logo=TypeORM)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-![NestJS](https://img.shields.io/badge/-Nestjs-red?style=flat-square&logo=Nest.js)
+![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -34,7 +36,7 @@ I am a Full Stack Developer, Infrastructure Architect and Product Designer from 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
