@@ -52,7 +52,7 @@ I am a Full Stack Developer, Infrastructure Architect and Product Designer from 
     <img src="https://github-readme-stats.vercel.app/api?username=crew-guy&count_private=true&show_icons=true&include_all_commits=true" alt="GitHub stats"/>
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crew-guy&hide=TeX&layout=compact" alt="Top Langs"/>
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crew-guy&hide=TeX&layout=compact" alt="Top Langs"/> -->
   </span>
 </div>
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=crew-guy&count_private=true&show_icons=true&include_all_commits=true) -->
