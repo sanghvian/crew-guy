@@ -12,7 +12,7 @@ I am a passionate technology enthusiast & an altruistic open-source advocate. I 
 
 <!-- [![Ankit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=crew-guy&theme=xcode)](https://git.io/crew-guy) -->
 
-## ⚡ Technologies :
+## ⚡ Technologies:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
