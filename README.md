@@ -1,4 +1,4 @@
-<h1> Hey ! I am Ankit ! <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="30px"></h1>
+<h1> Hey! I am Ankit ! <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="30px"></h1>
 
 I'm a Full-Stack Developer, Infrastructure Architect and Product Designer from India
 <br/>
