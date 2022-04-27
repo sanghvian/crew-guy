@@ -1,6 +1,6 @@
 <h1> Hey! I am Ankit ! <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="30px"></h1>
 
-I'm a Full-Stack Developer, Infrastructure Architect and Product Designer from India.
+I'm a Full-Stack Developer, Infrastructure Architect and Product Designer from India
 <br/>
 I am a passionate technology enthusiast & an altruistic open-source advocate. I always look forward to collaborating on disruptive ideas. Find out more about me & feel free to connect with me here, on these platforms:
 <br/>
