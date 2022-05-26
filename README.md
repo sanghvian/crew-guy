@@ -23,6 +23,7 @@ I am a passionate technology enthusiast & an altruistic creator, with a drive to
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-red?style=flat-square&logo=TypeORM)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![TensorFlow](https://img.shields.io/badge/-Tensorflow-C51A4A?style=flat-square&logo=Tensorflow)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
