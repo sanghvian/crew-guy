@@ -59,10 +59,6 @@ I am a passionate technology enthusiast & an altruistic creator, with a drive to
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crew-guy&hide=TeX&layout=compact" alt="Top Langs"/> -->
   </span>
 </div>
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=crew-guy&count_private=true&show_icons=true&include_all_commits=true) -->
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact) -->
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crew-guy)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crew-guy&hide=TeX&layout=compact) -->
 
