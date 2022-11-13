@@ -24,7 +24,7 @@ I am a passionate technology enthusiast & an altruistic creator, with a drive to
 ![TypeORM](https://img.shields.io/badge/-TypeORM-red?style=flat-square&logo=TypeORM)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-C51A4A?style=flat-square&logo=Tensorflow)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+<!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
@@ -62,4 +62,4 @@ I am a passionate technology enthusiast & an altruistic creator, with a drive to
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crew-guy&hide=TeX&layout=compact) -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kaiwalyakopakar.crew-guy)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kaiwalyakopakar.crew-guy) -->
