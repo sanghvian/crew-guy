@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer, Infrastructure Architect and Product Designer from India.
 <br/>
-I am a passionate technology enthusiast & an altruistic creator, with a drive to bring power to people, with software. Find out more about me & feel free to connect with me here, on these platforms :
+I am a passionate technology enthusiast & an altruistic creator, with a drive to bring power to people, with software. Find out more about me & feel free to connect with me here, on these platforms:
 <br/>
 [![Blog Badge](https://img.shields.io/badge/-Ankit's_Blog-grey?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.ankitsanghvi.live/)](https://blog.ankitsanghvi.live/)
 [![Website Badge](https://img.shields.io/badge/-Ankit's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://ankitsanghvi.live/)](https://ankitsanghvi.live/)
