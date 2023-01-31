@@ -4,8 +4,8 @@ I'm a Full-Stack Developer, Infrastructure Architect and Product Designer from s
 <br/>
 I am a passionate technology enthusiast & an altruistic creator, with a drive to bring power to people, with software. Find out more about me & feel free to connect with me here, on these platforms :
 <br/>
-[![Blog Badge](https://img.shields.io/badge/-Ankit's_Blog-grey?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.ankitsanghvi.live/)](https://blog.ankitsanghvi.live/)
-[![Website Badge](https://img.shields.io/badge/-Ankit's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://ankitsanghvi.live/)](https://ankitsanghvi.live/)
+[![Blog Badge](https://img.shields.io/badge/-Ankit's_Blog-grey?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.ankitsanghvi.live/)](https://blog.ankitsanghvi.in/)
+[![Website Badge](https://img.shields.io/badge/-Ankit's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://ankitsanghvi.live/)](https://ankitsanghvi.in/)
 [![Gmail Badge](https://img.shields.io/badge/-ankit.sanghavi87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankit.sanghavi87@gmail.com)](mailto:ankit.sanghavi87@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-ankitsanghvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-sanghvi-99237b1a0/)](https://www.linkedin.com/in/ankit-sanghvi-99237b1a0/)
 [![SoundCloud Badge](https://img.shields.io/badge/-ankitsanghvi-orange?style=flat-square&logo=Soundcloud&logoColor=white&link=https://soundcloud.com/ankit-sanghvi-127996264/)](https://soundcloud.com/ankit-sanghvi-127996264/)
