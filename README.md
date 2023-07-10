@@ -1,4 +1,5 @@
-<h1> Hey, I'm Ankit ! ⚒</h1>
+<h1> Hey, I'm Ankit! ⚒</h1>
+
 
 I'm a Full-Stack Developer, Infrastructure Architect and Product Designer from India.
 <br/>
