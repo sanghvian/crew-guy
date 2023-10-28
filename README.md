@@ -1,7 +1,7 @@
 <h1> Hey! ⚒</h1>
 
 
-I'm a Full-Stack Developer, Infrastructure Architect and Product Designer from India.
+I'm a Full-Stack Developer, Infrastructure Architect and Product Designer from California, USA. Undergrad at IIT Madras (2019-23) and Masters at Carnegie Mellon University (2023-24)
 <br/>
 I am a passionate technology enthusiast & an altruistic creator, with a drive to bring power to people, with software. Find out more about me & feel free to connect with me here, on these platforms:
 <br/>
