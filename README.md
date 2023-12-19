@@ -11,8 +11,7 @@ I am a passionate technology enthusiast & an altruistic creator, with a drive to
 [![Linkedin Badge](https://img.shields.io/badge/-ankitsanghvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-sanghvi-99237b1a0/)](https://www.linkedin.com/in/ankit-sanghvi-99237b1a0/)
 [![SoundCloud Badge](https://img.shields.io/badge/-ankitsanghvi-orange?style=flat-square&logo=Soundcloud&logoColor=white&link=https://soundcloud.com/ankit-sanghvi-127996264/)](https://soundcloud.com/ankit-sanghvi-127996264/)
 
-<!-- [![Ankit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=crew-guy&theme=xcode)](https://git.io/crew-guy) -->
-
+<!-- [![Ankit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=crew-guy&theme=xcode)](https://git.io/crew-guy)
 ## ⚡ Technologies:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -25,7 +24,7 @@ I am a passionate technology enthusiast & an altruistic creator, with a drive to
 ![TypeORM](https://img.shields.io/badge/-TypeORM-red?style=flat-square&logo=TypeORM)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-C51A4A?style=flat-square&logo=Tensorflow)
-<!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) -->
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
@@ -57,9 +56,12 @@ I am a passionate technology enthusiast & an altruistic creator, with a drive to
     <img src="https://github-readme-stats.vercel.app/api?username=crew-guy&count_private=true&show_icons=true&include_all_commits=true" alt="GitHub stats"/>
   </span>
   <span>
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crew-guy&hide=TeX&layout=compact" alt="Top Langs"/> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crew-guy&hide=TeX&layout=compact" alt="Top Langs"/> 
   </span>
 </div>
+
+-->
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crew-guy&hide=TeX&layout=compact) -->
 
